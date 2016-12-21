@@ -1,5 +1,6 @@
 {
 	"name": "fatelord/yii2-video-embed-widget",
+	"version": "dev-master",
 	"description": "Yii2 Extension for Generating Video Embed Codes from Video URLs",
 	"type": "yii2-extension",
 	"keywords": ["yii2","extension","widget","video","embed"],
