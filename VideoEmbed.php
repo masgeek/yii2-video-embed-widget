@@ -26,7 +26,6 @@ class VideoEmbed extends \yii\base\Widget
 
     	// include embed class
 	//include_once(__DIR__ . '/../../../vendor/embed/embed/src/autoloader.php');
-	include_once(__DIR__ . '../../autoload.php');
 
     	// look up data for the supplied url
     	$data = \Embed\Embed::create($this->url);
